@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SQLiteConnectionString-Web.config Connection String" description="SQLiteConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source = C:\Users\abdul atique\Desktop\Hackathon Instacar\Twitter\DB\Twitter.db; Version=3;New=False;Compress=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\abdul\ atique\\Desktop\\Hackathon\ Instacar\\Twitter\\Twitter\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SQLiteConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
